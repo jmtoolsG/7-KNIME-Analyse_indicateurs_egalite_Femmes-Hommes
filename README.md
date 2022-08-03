@@ -1,1 +1,1 @@
-# KNIME-Anallyse_indicateurs_egalite_Femmes-Hommes
+# Analyse des indicateurs d'égalite Femmes/Hommes en entreprise
