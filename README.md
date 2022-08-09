@@ -14,3 +14,8 @@ En tant que Data-Analyst dans un cabinet de consultant spécialisé dans la tran
   
   - Justifier le choix des indicateurs dans l’objectif de représenter l’égalité femmes / hommes
 - Transférer des données à une zone de préparation
+
+#### Outils utilisés :
+
+- Excel (Power Query)
+- KNIME
