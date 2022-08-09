@@ -1,4 +1,4 @@
-# Analyse des indicateurs d'égalite Femmes/Hommes en entreprise
+# Analyse des indicateurs d'égalite femmes / hommes en entreprise
 
 En tant que Data-Analyst dans un cabinet de consultant spécialisé dans la transformation digitale des entreprises, la direction souhaite automatiser la création d’un rapport diagnostique sur l’égalité professionnelle femmes / hommes.
 
